@@ -1,0 +1,47 @@
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+.more{
+    display: none;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: auto;
+	background-color: #1abc9c;
+}
+
+.footer p {
+	margin: 45px;
+	font-size: 22px;
+    color: #fff;
+}
+
+.container p{
+    display: inline;
+}
+
+.btn{
+    margin-top:20px;
+}
