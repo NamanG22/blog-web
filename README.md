@@ -1,4 +1,3 @@
-```markdown
 # Blog Website
 
 This is a blog website built using Node.js, Express.js, EJS for templating, and MongoDB as the local database with Mongoose as its driver. This application allows users to create, read, update, and delete blog posts.
@@ -92,5 +91,3 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a Pull Request.
-
-```
