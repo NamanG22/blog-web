@@ -10,7 +10,6 @@ This is a blog website built using Node.js, Express.js, EJS for templating, and 
 - [Usage](#usage)
 - [Routes](#routes)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
